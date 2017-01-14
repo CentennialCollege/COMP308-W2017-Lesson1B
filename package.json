@@ -10,5 +10,13 @@
     "NodeJS"
   ],
   "author": "Tom Tsiliopoulos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson1B.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson1B/issues"
+  },
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson1B#readme"
 }
